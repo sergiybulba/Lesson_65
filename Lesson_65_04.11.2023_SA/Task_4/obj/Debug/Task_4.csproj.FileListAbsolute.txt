@@ -1,0 +1,7 @@
+D:\AZOT\STEP\Lessons\Lesson_65_04.11.2023_SA\Lesson_65_04.11.2023_SA\Lesson_65_04.11.2023_SA\Task_4\bin\Debug\Task_4.exe.config
+D:\AZOT\STEP\Lessons\Lesson_65_04.11.2023_SA\Lesson_65_04.11.2023_SA\Lesson_65_04.11.2023_SA\Task_4\bin\Debug\Task_4.exe
+D:\AZOT\STEP\Lessons\Lesson_65_04.11.2023_SA\Lesson_65_04.11.2023_SA\Lesson_65_04.11.2023_SA\Task_4\bin\Debug\Task_4.pdb
+D:\AZOT\STEP\Lessons\Lesson_65_04.11.2023_SA\Lesson_65_04.11.2023_SA\Lesson_65_04.11.2023_SA\Task_4\obj\Debug\Task_4.csproj.CoreCompileInputs.cache
+D:\AZOT\STEP\Lessons\Lesson_65_04.11.2023_SA\Lesson_65_04.11.2023_SA\Lesson_65_04.11.2023_SA\Task_4\obj\Debug\Task_4.exe
+D:\AZOT\STEP\Lessons\Lesson_65_04.11.2023_SA\Lesson_65_04.11.2023_SA\Lesson_65_04.11.2023_SA\Task_4\obj\Debug\Task_4.pdb
+D:\AZOT\STEP\Lessons\Lesson_65_04.11.2023_SA\Lesson_65_04.11.2023_SA\Lesson_65_04.11.2023_SA\Task_4\obj\Debug\Task_4.csproj.AssemblyReference.cache
